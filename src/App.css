@@ -9,7 +9,13 @@
 .userTable h2 {
   color: black !important;
 }
-td {
+td,
+th {
   color: #8895a0;
-  text-align: center;
+  text-align: start;
+}
+td {
+  padding: 10px 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
 }

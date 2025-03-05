@@ -1,11 +1,11 @@
 import "./App.css";
-import DexiTable from "./compontnts/DexiTable";
+import PhoneNumberInput from "./PhoneNumber";
 
 function App() {
   return (
     <>
       <div>
-        <DexiTable />
+        <PhoneNumberInput />
       </div>
     </>
   );
