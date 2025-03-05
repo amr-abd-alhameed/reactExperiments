@@ -1,11 +1,11 @@
 import "./App.css";
-import UseDebounce from "./compontnts/UseDebounce";
+import DexiTable from "./compontnts/DexiTable";
 
 function App() {
   return (
     <>
       <div>
-        <UseDebounce />
+        <DexiTable />
       </div>
     </>
   );
