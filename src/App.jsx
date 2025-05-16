@@ -1,11 +1,11 @@
 import "./App.css";
-import UseDebounce from "./compontnts/UseDebounce";
+import Users from "./compontnts/Users";
 
 function App() {
   return (
     <>
       <div>
-        <UseDebounce />
+        <Users />
       </div>
     </>
   );
